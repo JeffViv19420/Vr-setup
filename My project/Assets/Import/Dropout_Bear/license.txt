@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dropout Bear
+* source:	https://sketchfab.com/3d-models/dropout-bear-80f178fb241541c6933d93b6aefc1087
+* author:	joe_daburca (https://sketchfab.com/joe_daburca)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dropout Bear" (https://sketchfab.com/3d-models/dropout-bear-80f178fb241541c6933d93b6aefc1087) by joe_daburca (https://sketchfab.com/joe_daburca) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
