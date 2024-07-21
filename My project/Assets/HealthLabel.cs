@@ -6,7 +6,7 @@ using TMPro;
 
 public class HealthLabel : MonoBehaviour
 {
-    public GameObject player;
+    public GameObject enemy;
     public TMP_Text text;
     // Start is called before the first frame update
     void Start()
@@ -17,6 +17,6 @@ public class HealthLabel : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        text.text= "Health: "+(player.GetComponent<Player>().health).ToString();
+        text.text= "Enemy Health: "+(enemy.GetComponent<Enemy>().health).ToString();
     }
 }

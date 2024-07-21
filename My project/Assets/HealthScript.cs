@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class HealthScript : MonoBehaviour
 {
-    public GameObject player;
+    public GameObject enemy;
     public Image img;
     // Start is called before the first frame update
     void Start()
@@ -16,6 +16,6 @@ public class HealthScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        img.fillAmount=player.GetComponent<Player>().health/100f;
+        img.fillAmount=(enemy.GetComponent<Enemy>().health)/100f;
     }
 }
