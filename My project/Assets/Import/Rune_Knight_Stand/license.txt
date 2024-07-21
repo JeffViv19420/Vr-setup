@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rune Knight Stand
+* source:	https://sketchfab.com/3d-models/rune-knight-stand-90153ff94abd44c9b641fd55118b0a34
+* author:	ddemon26 (https://sketchfab.com/ddemon26)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rune Knight Stand" (https://sketchfab.com/3d-models/rune-knight-stand-90153ff94abd44c9b641fd55118b0a34) by ddemon26 (https://sketchfab.com/ddemon26) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
